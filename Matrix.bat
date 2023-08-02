@@ -1,6 +1,6 @@
 @echo off
 
-color 2
+color_2
 
 :start
 
